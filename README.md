@@ -1,7 +1,6 @@
 # Android_appium
 
 Workflow:
-
-Install Java as a prerequisite
-Install Android and set paths
-Install other packages, node and script to create appium
+  1. Install Java as a prerequisite
+  2. Install Android and set paths
+  3. Install other packages, node and script to create appium
